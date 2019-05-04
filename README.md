@@ -2,7 +2,10 @@
 
 This is a simple app for displaying and adding blogs
 
-##How to run
+## How to run
 
-Download the repository , switch to the directory in terminal and type
-npm start
+1. Download the repository , switch to the directory in terminal
+
+2. Run the following command:
+
+    npm start
