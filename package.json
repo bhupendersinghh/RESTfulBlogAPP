@@ -4,7 +4,8 @@
   "description": "Blogg app. Exciting, isn't it?",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Bhupender Singh",
   "license": "ISC",
