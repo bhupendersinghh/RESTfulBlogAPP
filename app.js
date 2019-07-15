@@ -6,6 +6,8 @@ mongoose       = require("mongoose"),
 app            = express();
 
 //APP CONFIG
+
+//Update database config here
 mongoose.connect("mongodb://localhost/restful_blog_app", {useNewUrlParser: true});
 app.set("view engine", "ejs");
 app.use(express.static("public"));
